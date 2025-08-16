@@ -1,0 +1,2 @@
+HiddenServiceDir ..\hidden_service 
+HiddenServicePort 8081 127.0.0.1:8081 
